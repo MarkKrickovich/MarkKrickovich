@@ -1,7 +1,6 @@
 # Mark Krickovich
 I'm Mark Krickovich, from California USA. I am a Data Science and Finance Professional.  I am passionate about Data-Prediction Sciences and All-Things Finance. I enjoy learn new Python skills and Data Science Skills everyday such as Pandas, Numpy, Neural Networks, and many other.   
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/markkrickovich/)
 
 ## Skills and Experience
 - Python for Data Science
@@ -27,11 +26,11 @@ I recently completed a rigorous Data-Science Certification program through Unive
 
 
 
-### Check out my Articles
-<a target="_blank" href="hhttps://www.linkedin.com/pulse/business-intelligence-using-excel-sortof-kinda-mark-krickovich">https://www.linkedin.com/pulse/business-intelligence-using-excel-sortof-kinda-mark-krickovich
+## Check out my Data Science Project Portfolio
+https://github.com/MarkKrickovich/MarkKrickovich.github.io
 
-  ### My Data Science Projects
-  
-  
+
+
+ Connect with me on [LinkedIn](https://www.linkedin.com/in/markkrickovich/)
   
   
