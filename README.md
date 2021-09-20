@@ -26,7 +26,7 @@ I recently completed a rigorous Data-Science Certification program through Unive
 
 
 
-## Check out my Data Science Project Portfolio
+## EXAMPLES OF MY WORK - Please Check out my Data Science Project Portfolio
 https://github.com/MarkKrickovich/MarkKrickovich.github.io/blob/main/index.md
 
 
