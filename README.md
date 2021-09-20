@@ -1,5 +1,3 @@
-![Data Science & Finance](https://github.com/MarkKrickovich/MarkKrickovich/blob/main/Python%20Confusion%20Matrix.JPG)
-
 # Mark Krickovich
 I'm Mark Krickovich, from California USA. I am a Data Science and Finance Professional.  I am passionate about Data-Prediction Sciences and All-Things Finance. I enjoy learn new Python skills and Data Science Skills everyday such as Pandas, Numpy, Neural Networks, and many other.   
 
