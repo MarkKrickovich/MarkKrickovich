@@ -5,6 +5,7 @@ I'm Mark Krickovich, from California USA. I am a Data Science and Finance Profes
 ## Skills and Experience
 - Python for Data Science
 - Supervised & Unsupervised Machine Learning
+- Reinforcement Machine Learning
 - Power BI
 - MS Excel
 - Financial Planning & Analysis
