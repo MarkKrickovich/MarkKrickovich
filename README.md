@@ -1,5 +1,5 @@
 # Mark Krickovich
-I'm Mark Krickovich, from California USA. I am a Data Science and Finance Professional.  I am passionate about Data-Prediction Sciences and All-Things Finance. I enjoy learn new Python skills and Data Science Skills everyday such as Pandas, Numpy, Neural Networks, and many other.   
+I'm Mark Krickovich, from California USA. I am a Data Science and Finance Professional.  I am passionate about Data-Prediction Sciences and All-Things Finance. I enjoy learning new Python and Data Science Skills everyday such as Pandas, Numpy, Neural Networks, and many other.  I am an experienced professional with a background in Business Valuation, Financial Planning & Analysis (FP&A), Complex Financial Modeling (in Excel and Python) and, beginning in 2018, Data Science.  I come to the Data Science field as a Finance Quant of sorts.  I am seeking challenging opportunities to work in the Data Science and Finance fields.  
 
 
 ## Skills and Experience
