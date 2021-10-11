@@ -12,7 +12,7 @@ I'm Mark Krickovich, from California USA. I am a Data Science and Finance Profes
 
 ## Accredited Data Science Education
 I recently completed a rigorous Data-Science Certification program through University of California, San Diego, which was awarded to me in March 2020 (see URL below). This learning expereince provides students with the skills to design, build, verify, and test predictive data models to make data-driven decisions in any industry. https://extension.ucsd.edu/courses-and-programs/data-mining-for-advanced-analytics
-### Key Program Topics:
+#### Key Program Topics:
     - Model training, testing, and evaluation
     - Decision tables and trees
     - Classification rules
